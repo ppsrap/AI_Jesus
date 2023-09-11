@@ -1,5 +1,5 @@
 # AI_Jesus
-This is the code for "AI Jesus Made Me a Believer" on Youtube by Siraj Raval
+This is the code for "AI Jesus Made Me a Believer"
 
 
 ## Overview
